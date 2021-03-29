@@ -1,0 +1,13 @@
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.exe
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.dll
+D:\my c#\tcp\service\client\client\client\bin\Debug\netcoreapp3.1\client.pdb
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.dll
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.pdb
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
+D:\my c#\tcp\service\client\client\client\obj\Debug\netcoreapp3.1\client.csprojAssemblyReference.cache
